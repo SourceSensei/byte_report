@@ -216,7 +216,7 @@ img#logo-bottom {
   .cycle-prev,
   .cycle-next {
     position: absolute;
-    top: 20%;
+    top: 15%;
     color: var(--primary-color);
     padding: 3rem;
     display: block;
