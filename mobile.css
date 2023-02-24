@@ -266,9 +266,16 @@ img#logo-bottom {
 
   img#logo-bottom {
     width: 4rem;
+    margin-left: 0;
   }
 
   p {
     font-size: 0.8rem;
+  }
+
+  #main-footer .footer-container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 1rem;
   }
 }
