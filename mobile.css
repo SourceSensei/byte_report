@@ -206,11 +206,11 @@ img#logo-bottom {
     z-index: 1; /* update z-index value */
     overflow: hidden;
     width: 100%;
-    margin: 19rem 0;
+    margin: 18rem 0;
   }
 
   section#archive-articles {
-    margin-top: 18rem;
+    margin-top: 15rem;
   }
 
   .cycle-prev,
@@ -238,18 +238,17 @@ img#logo-bottom {
     background-color: var(--dark-color);
     color: white;
     width: 100%;
-    padding: 1rem;
+    padding: 0.2rem 1rem;
     box-sizing: border-box;
     z-index: 1;
-    height: 33%;
   }
 
   h3.slide-heading {
-    font-size: 1rem;
+    font-size: 0.9rem;
   }
 
   p.slide-paragraph {
-    font-size: 0.8rem;
+    font-size: 0.7rem;
   }
 
   h3.article-heading-main {
