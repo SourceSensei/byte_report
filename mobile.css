@@ -206,7 +206,7 @@ img#logo-bottom {
     z-index: 1; /* update z-index value */
     overflow: hidden;
     width: 100%;
-    margin: 16.5rem 0;
+    margin: 19rem 0;
   }
 
   section#archive-articles {
@@ -241,6 +241,7 @@ img#logo-bottom {
     padding: 1rem;
     box-sizing: border-box;
     z-index: 1;
+    height: 33%;
   }
 
   h3.slide-heading {
